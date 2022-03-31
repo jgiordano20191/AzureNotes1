@@ -1,0 +1,6 @@
+- Availability Zones are unique physical locaitons within an Azure Region
+- With Availabiity Zones , Azuer offers a 99.99% VM uptime SLA
+- An Availability Zone in an Azure region is a comginatino of a fault domain and an update domain
+- Zonal Services - The resource is pinned to a specific (for example, VM's, managed disks, Standard IP addresses)
+- Zone-redundant services - azure platform repliaces automatically across zones
+
