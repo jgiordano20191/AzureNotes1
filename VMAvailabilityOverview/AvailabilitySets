@@ -1,0 +1,9 @@
+Potential for VM Impact
+- Planned Maintenance
+- Unplanned hardware maintenance
+- unexpected downtime
+
+Availability Sets
+- Group two or more machines in a set
+- Separated based on Fault Domains and Update Domains
+
